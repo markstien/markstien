@@ -7,7 +7,7 @@
 - ✍ TS/JS is my usual language.
 - 👯 Love GraphQL style api & FP style programing.
 - 🤔 I’m looking for a job as a web developer.
-- 📫 email me <fake@example.com>
+- 📫 email me <markstien@outlook.com>
 - 😄 Try new stuff is like an adventure, full of surprise \^o^/.
 - ⚡ Develop a software is like giving birth to a baby.
 
