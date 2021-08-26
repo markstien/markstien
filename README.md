@@ -22,7 +22,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Marksteinsong&repo=EventTarget&theme=vue" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marksteinsong&layout=compact&hide=html" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Marksteinsong&repo=Functor-Monad&theme=vue" />
 </a>
-
 
